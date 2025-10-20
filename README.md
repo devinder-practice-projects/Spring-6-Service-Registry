@@ -21,6 +21,5 @@ Steps to Run.
 2. Create Service Registry as a server and then register 1st microservice i.e. Question Micro Service. 
 3. Now, the Question Micro Service has been registered and running on server so , it can be called from any other service who has been registered.
 4. Now, Create 2nd microservice e.g. Quiz Micro Service , now register it with server i.e. Service Registry. 
-5. Now, call the 1st microservice from the second microservice i.e. Calling Question Micro Service from the Quiz Micro Service. 
-6. 
+5. Now, call the 1st microservice from the second microservice i.e. Calling Question Micro Service from the Quiz Micro Service.
 
