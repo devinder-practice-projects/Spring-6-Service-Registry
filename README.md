@@ -23,3 +23,7 @@ Steps to Run.
 4. Now, Create 2nd microservice e.g. Quiz Micro Service , now register it with server i.e. Service Registry. 
 5. Now, call the 1st microservice from the second microservice i.e. Calling Question Micro Service from the Quiz Micro Service.
 
+a. Run the Server First. 
+b. Run the first Micro Service.
+c. Run the Second Micro Service which is calling first microservice. 
+d. Then test the apis.
